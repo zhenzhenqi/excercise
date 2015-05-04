@@ -20,6 +20,9 @@ p {
 padding-left: 40px;
 }
 
+canvas {
+    position: fixed;
+}
 
 /***********************navbar and tagline*******************/
 
